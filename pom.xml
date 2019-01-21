@@ -6,7 +6,7 @@
 	<artifactId>git-commandline</artifactId>
 	<version>1.0</version>
 	<name>aapkitechtube</name>
-
+<!-- This is a JUNIT Dependency -->
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
