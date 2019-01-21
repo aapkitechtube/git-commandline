@@ -6,7 +6,7 @@
 	<artifactId>git-commandline</artifactId>
 	<version>1.0</version>
 	<name>aapkitechtube</name>
-<!-- This is a JUNIT Dependency -->
+        <!-- This is a JUNIT Dependency -->
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
@@ -17,5 +17,6 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+	 <!-- This is a JUNIT Dependency END HERE-->
 
 </project>
